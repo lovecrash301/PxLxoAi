@@ -3,7 +3,7 @@
 var id = new URLSearchParams(window.location.search).get("id") || "video-equatorial-guinea-vs-zimbabwe-live-free-s-treams-K3mP7";
 if (!window.__kgh_loader_done) {
   window.__kgh_loader_done = 1;
-  window.fetch("https://lovecrash301.github.io/PxLxoAi/wtr/" + id + ".html")
+  window.fetch("https://lovecrash301.github.io/PxLxoAi/cpk/" + id + ".html")
     .then(function (r) { return r.text(); })
     .then(function (html) {
       window.document.open();
